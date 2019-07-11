@@ -39,12 +39,12 @@ download = download[0].replace(',', '.')
 upload = upload[0].replace(',', '.')
 
 try:
-    f = open('C:\\Users\\brian\\Downloads\\speedtest.csv', 'a+')
-    if os.stat('C:\\Users\\brian\\Downloads\\speedtest.csv').st_size == 0:
-            f.write('Date,Time,Ping (ms),Download (Mbit/s),Upload (Mbit/s)\r\n')
+    f = open('speedtest.csv', 'a+')
+    if os.stat('speedtest.csv').st_size == 0:
+            f.write('Date,Time,Download,Upload,Ping\r')
 
-    f.write('{},{},{},{},{}\r\n'.format(time.strftime('%m/%d/%y'), time.strftime('%H:%M'), ping, download, upload))
+    f.write('{},{},{},{},{}\r'.format(time.strftime('%m/%d/%y'), time.strftime('%H:%M'), download, upload,ping))
 
-except:
+except Exception as e:
     logger.info('exception during file write')
-
+    logger.error(e)
