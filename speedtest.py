@@ -9,7 +9,7 @@ logger = logging.getLogger('speedtest')
 logger.setLevel(logging.DEBUG)
 
 # create file handler which logs even debug messages
-fh = logging.FileHandler('spam.log')
+fh = logging.FileHandler('log_speedtest.log')
 fh.setLevel(logging.DEBUG)
 
 # create console handler
@@ -39,11 +39,11 @@ download = download[0].replace(',', '.')
 upload = upload[0].replace(',', '.')
 
 try:
-    f = open('speedtest.csv', 'a+')
-    if os.stat('speedtest.csv').st_size == 0:
+    f = open('output_speedtest.csv', 'a+')
+    if os.stat('output_speedtest.csv').st_size == 0:
             f.write('Date,Time,Download,Upload,Ping\r')
 
-    f.write('{},{},{},{},{}\r'.format(time.strftime('%m/%d/%y'), time.strftime('%H:%M'), download, upload,ping))
+    f.write('{},{},{},{},{}\r'.format(time.strftime('%m/%d/%y'), time.strftime('%H:%M'), download, upload, ping))
 
 except Exception as e:
     logger.info('exception during file write')
