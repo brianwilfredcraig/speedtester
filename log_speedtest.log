@@ -282,3 +282,5 @@
 2020-04-12 02:00:37,980 - speedtest - INFO - completed call to speedtest-cli
 2020-04-12 03:00:03,301 - speedtest - INFO - about to call speedtest-cli
 2020-04-12 03:00:31,970 - speedtest - INFO - completed call to speedtest-cli
+2020-04-12 04:00:03,368 - speedtest - INFO - about to call speedtest-cli
+2020-04-12 04:00:33,361 - speedtest - INFO - completed call to speedtest-cli
