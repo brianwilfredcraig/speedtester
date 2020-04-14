@@ -412,3 +412,5 @@
 2020-04-14 19:00:28,626 - speedtest - INFO - completed call to speedtest-cli
 2020-04-14 20:00:05,171 - speedtest - INFO - about to call speedtest-cli
 2020-04-14 20:00:48,228 - speedtest - INFO - completed call to speedtest-cli
+2020-04-14 21:00:02,327 - speedtest - INFO - about to call speedtest-cli
+2020-04-14 21:00:28,525 - speedtest - INFO - completed call to speedtest-cli
