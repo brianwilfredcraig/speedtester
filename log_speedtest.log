@@ -422,3 +422,5 @@
 2020-04-15 00:00:27,775 - speedtest - INFO - completed call to speedtest-cli
 2020-04-15 01:00:02,327 - speedtest - INFO - about to call speedtest-cli
 2020-04-15 01:00:29,559 - speedtest - INFO - completed call to speedtest-cli
+2020-04-15 02:00:03,634 - speedtest - INFO - about to call speedtest-cli
+2020-04-15 02:00:33,117 - speedtest - INFO - completed call to speedtest-cli
