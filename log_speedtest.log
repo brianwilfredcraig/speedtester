@@ -552,3 +552,5 @@
 2020-04-18 02:00:28,126 - speedtest - INFO - completed call to speedtest-cli
 2020-04-18 03:00:03,713 - speedtest - INFO - about to call speedtest-cli
 2020-04-18 03:00:31,273 - speedtest - INFO - completed call to speedtest-cli
+2020-04-18 04:00:02,656 - speedtest - INFO - about to call speedtest-cli
+2020-04-18 04:00:30,663 - speedtest - INFO - completed call to speedtest-cli
