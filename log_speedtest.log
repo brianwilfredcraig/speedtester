@@ -600,3 +600,5 @@
 2020-04-19 02:00:33,277 - speedtest - INFO - completed call to speedtest-cli
 2020-04-19 03:00:04,241 - speedtest - INFO - about to call speedtest-cli
 2020-04-19 03:00:33,147 - speedtest - INFO - completed call to speedtest-cli
+2020-04-19 04:00:07,612 - speedtest - INFO - about to call speedtest-cli
+2020-04-19 04:00:35,323 - speedtest - INFO - completed call to speedtest-cli
