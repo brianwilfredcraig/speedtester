@@ -842,3 +842,5 @@
 2020-04-24 09:00:40,271 - speedtest - INFO - completed call to speedtest-cli
 2020-04-24 10:00:02,568 - speedtest - INFO - about to call speedtest-cli
 2020-04-24 10:00:33,317 - speedtest - INFO - completed call to speedtest-cli
+2020-04-24 11:00:01,938 - speedtest - INFO - about to call speedtest-cli
+2020-04-24 11:00:31,002 - speedtest - INFO - completed call to speedtest-cli
