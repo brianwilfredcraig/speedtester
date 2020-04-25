@@ -888,3 +888,5 @@
 2020-04-25 09:00:42,026 - speedtest - INFO - completed call to speedtest-cli
 2020-04-25 10:00:05,361 - speedtest - INFO - about to call speedtest-cli
 2020-04-25 10:00:38,446 - speedtest - INFO - completed call to speedtest-cli
+2020-04-25 11:00:05,741 - speedtest - INFO - about to call speedtest-cli
+2020-04-25 11:00:39,126 - speedtest - INFO - completed call to speedtest-cli
