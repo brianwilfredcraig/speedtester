@@ -924,3 +924,5 @@
 2020-04-27 00:21:16,738 - speedtest - INFO - completed call to speedtest-cli
 2020-04-27 01:00:03,615 - speedtest - INFO - about to call speedtest-cli
 2020-04-27 01:00:33,679 - speedtest - INFO - completed call to speedtest-cli
+2020-04-27 01:20:46,047 - speedtest - INFO - about to call speedtest-cli
+2020-04-27 01:21:13,262 - speedtest - INFO - completed call to speedtest-cli
