@@ -1046,3 +1046,5 @@
 2020-04-28 15:00:42,045 - speedtest - INFO - completed call to speedtest-cli
 2020-04-28 16:00:06,949 - speedtest - INFO - about to call speedtest-cli
 2020-04-28 16:00:42,934 - speedtest - INFO - completed call to speedtest-cli
+2020-04-28 17:00:03,772 - speedtest - INFO - about to call speedtest-cli
+2020-04-28 17:00:34,928 - speedtest - INFO - completed call to speedtest-cli
