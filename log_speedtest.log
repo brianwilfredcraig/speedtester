@@ -1080,3 +1080,5 @@
 2020-04-29 08:00:28,915 - speedtest - INFO - completed call to speedtest-cli
 2020-04-29 09:00:04,338 - speedtest - INFO - about to call speedtest-cli
 2020-04-29 09:00:35,407 - speedtest - INFO - completed call to speedtest-cli
+2020-04-29 10:00:04,557 - speedtest - INFO - about to call speedtest-cli
+2020-04-29 10:00:42,687 - speedtest - INFO - completed call to speedtest-cli
