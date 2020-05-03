@@ -1244,3 +1244,5 @@
 2020-05-03 06:00:28,819 - speedtest - INFO - completed call to speedtest-cli
 2020-05-03 07:00:03,647 - speedtest - INFO - about to call speedtest-cli
 2020-05-03 07:00:32,260 - speedtest - INFO - completed call to speedtest-cli
+2020-05-03 08:00:02,860 - speedtest - INFO - about to call speedtest-cli
+2020-05-03 08:00:31,612 - speedtest - INFO - completed call to speedtest-cli
