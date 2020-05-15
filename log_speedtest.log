@@ -1702,3 +1702,5 @@
 2020-05-15 08:00:35,004 - speedtest - INFO - completed call to speedtest-cli
 2020-05-15 09:00:03,637 - speedtest - INFO - about to call speedtest-cli
 2020-05-15 09:00:34,989 - speedtest - INFO - completed call to speedtest-cli
+2020-05-15 10:00:03,410 - speedtest - INFO - about to call speedtest-cli
+2020-05-15 10:00:36,596 - speedtest - INFO - completed call to speedtest-cli
