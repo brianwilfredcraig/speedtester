@@ -7,3 +7,4 @@ Dependencies:
  Python
  speedtest-cli
  %PYTHON_HOME% env var must be set.
+  
