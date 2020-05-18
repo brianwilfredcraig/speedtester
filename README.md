@@ -6,3 +6,4 @@ Based on the instructions provided here : https://pimylifeup.com/raspberry-pi-in
 Dependencies:
  Python
  speedtest-cli
+ %PYTHON_HOME% env var must be set.
