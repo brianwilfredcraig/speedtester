@@ -1726,9 +1726,16 @@
 2020-05-18 17:19:02,790 - speedtest - INFO - completed call to speedtest-cli
 2020-05-18 17:28:21,513 - speedtest - INFO - about to call speedtest-cli
 2020-05-18 17:28:46,673 - speedtest - INFO - completed call to speedtest-cli
+<<<<<<< HEAD
 2020-05-21 18:50:37,364 - speedtest - INFO - about to call speedtest-cli
 2020-05-21 18:51:30,664 - speedtest - INFO - completed call to speedtest-cli
 2020-05-21 19:57:52,168 - speedtest - INFO - about to call speedtest-cli
 2020-05-21 19:58:21,319 - speedtest - INFO - completed call to speedtest-cli
 2020-05-21 19:58:52,809 - speedtest - INFO - about to call speedtest-cli
 2020-05-21 19:59:30,764 - speedtest - INFO - completed call to speedtest-cli
+=======
+2020-05-19 08:40:57,361 - speedtest - INFO - about to call speedtest-cli
+2020-05-19 08:40:57,382 - speedtest - INFO - completed call to speedtest-cli
+2020-05-19 08:45:53,528 - speedtest - INFO - about to call speedtest-cli
+2020-05-19 08:46:17,414 - speedtest - INFO - completed call to speedtest-cli
+>>>>>>> 358d61a8baf1ddb6941a30a2e8bea42129f79c98
