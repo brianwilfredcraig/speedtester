@@ -1767,3 +1767,5 @@
 2020-05-26 20:05:22,575 - speedtest - INFO - completed call to speedtest-cli
 2020-05-27 20:35:23,571 - speedtest - INFO - about to call speedtest-cli
 2020-05-27 20:35:50,966 - speedtest - INFO - completed call to speedtest-cli
+2020-05-29 18:10:46,236 - speedtest - INFO - about to call speedtest-cli
+2020-05-29 18:11:19,533 - speedtest - INFO - completed call to speedtest-cli
