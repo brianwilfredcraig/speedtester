@@ -1907,3 +1907,5 @@
 2020-08-03 07:34:16,483 - speedtest - INFO - completed call to speedtest-cli
 2020-08-04 08:31:23,751 - speedtest - INFO - about to call speedtest-cli
 2020-08-04 08:31:51,922 - speedtest - INFO - completed call to speedtest-cli
+2020-08-06 08:06:24,430 - speedtest - INFO - about to call speedtest-cli
+2020-08-06 08:06:52,999 - speedtest - INFO - completed call to speedtest-cli
