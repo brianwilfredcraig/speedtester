@@ -2135,3 +2135,35 @@ There is 1 interface on the system:
 2020-08-09 11:26:20,559 - speedtest - INFO - wifi_ssid=>SSID:PLUSNET-CRQG<
 2020-08-09 11:26:20,559 - speedtest - INFO - about to call speedtest-cli
 2020-08-09 11:26:43,914 - speedtest - INFO - completed call to speedtest-cli
+2020-08-09 12:00:03,412 - speedtest - INFO - about to call netsh wlan
+2020-08-09 12:00:03,627 - speedtest - DEBUG - wifi_ssif=>
+There is 1 interface on the system: 
+
+    Name                   : WiFi
+    Description            : Broadcom 802.11n Network Adapter
+    GUID                   : de1f9d76-56d1-4333-b97f-496308e7898a
+    Physical address       : 44:1c:a8:95:5d:83
+    State                  : connected
+    SSID                   : PLUSNET-CRQG
+    BSSID                  : d0:57:94:b8:cd:12
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 1
+    Receive rate (Mbps)    : 72
+    Transmit rate (Mbps)   : 72
+    Signal                 : 96% 
+    Profile                : PLUSNET-CRQG 
+
+    Hosted network status  : Not available
+
+<
+2020-08-09 12:00:03,627 - speedtest - INFO - completed call to netsh wlan
+2020-08-09 12:00:03,636 - speedtest - DEBUG - outputArray=>['', 'There is 1 interface on the system: ', '', '    Name                   : WiFi', '    Description            : Broadcom 802.11n Network Adapter', '    GUID                   : de1f9d76-56d1-4333-b97f-496308e7898a', '    Physical address       : 44:1c:a8:95:5d:83', '    State                  : connected', '    SSID                   : PLUSNET-CRQG', '    BSSID                  : d0:57:94:b8:cd:12', '    Network type           : Infrastructure', '    Radio type             : 802.11n', '    Authentication         : WPA2-Personal', '    Cipher                 : CCMP', '    Connection mode        : Auto Connect', '    Channel                : 1', '    Receive rate (Mbps)    : 72', '    Transmit rate (Mbps)   : 72', '    Signal                 : 96% ', '    Profile                : PLUSNET-CRQG ', '', '    Hosted network status  : Not available', '']<
+2020-08-09 12:00:03,636 - speedtest - DEBUG - outputArrayNoSpaces=>['', 'Thereis1interfaceonthesystem:', '', 'Name:WiFi', 'Description:Broadcom802.11nNetworkAdapter', 'GUID:de1f9d76-56d1-4333-b97f-496308e7898a', 'Physicaladdress:44:1c:a8:95:5d:83', 'State:connected', 'SSID:PLUSNET-CRQG', 'BSSID:d0:57:94:b8:cd:12', 'Networktype:Infrastructure', 'Radiotype:802.11n', 'Authentication:WPA2-Personal', 'Cipher:CCMP', 'Connectionmode:AutoConnect', 'Channel:1', 'Receiverate(Mbps):72', 'Transmitrate(Mbps):72', 'Signal:96%', 'Profile:PLUSNET-CRQG', '', 'Hostednetworkstatus:Notavailable', '']<
+2020-08-09 12:00:03,636 - speedtest - DEBUG - ssidArray=>['SSID:PLUSNET-CRQG']<
+2020-08-09 12:00:03,636 - speedtest - INFO - wifi_ssid=>SSID:PLUSNET-CRQG<
+2020-08-09 12:00:03,636 - speedtest - INFO - about to call speedtest-cli
+2020-08-09 12:00:27,001 - speedtest - INFO - completed call to speedtest-cli
