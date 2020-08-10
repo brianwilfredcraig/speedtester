@@ -2231,3 +2231,35 @@ There is 1 interface on the system:
 2020-08-10 08:00:09,722 - speedtest - INFO - wifi_ssid=>SSID:Sunroom<
 2020-08-10 08:00:09,722 - speedtest - INFO - about to call speedtest-cli
 2020-08-10 08:00:37,452 - speedtest - INFO - completed call to speedtest-cli
+2020-08-10 08:02:42,950 - speedtest - INFO - about to call netsh wlan
+2020-08-10 08:02:43,662 - speedtest - DEBUG - wifi_ssif=>
+There is 1 interface on the system: 
+
+    Name                   : WiFi
+    Description            : Broadcom 802.11n Network Adapter
+    GUID                   : de1f9d76-56d1-4333-b97f-496308e7898a
+    Physical address       : 44:1c:a8:95:5d:83
+    State                  : connected
+    SSID                   : Sunroom
+    BSSID                  : 98:da:c4:0c:a2:5a
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 2
+    Receive rate (Mbps)    : 144
+    Transmit rate (Mbps)   : 52
+    Signal                 : 100% 
+    Profile                : Sunroom 
+
+    Hosted network status  : Not available
+
+<
+2020-08-10 08:02:43,662 - speedtest - INFO - completed call to netsh wlan
+2020-08-10 08:02:43,662 - speedtest - DEBUG - outputArray=>['', 'There is 1 interface on the system: ', '', '    Name                   : WiFi', '    Description            : Broadcom 802.11n Network Adapter', '    GUID                   : de1f9d76-56d1-4333-b97f-496308e7898a', '    Physical address       : 44:1c:a8:95:5d:83', '    State                  : connected', '    SSID                   : Sunroom', '    BSSID                  : 98:da:c4:0c:a2:5a', '    Network type           : Infrastructure', '    Radio type             : 802.11n', '    Authentication         : WPA2-Personal', '    Cipher                 : CCMP', '    Connection mode        : Auto Connect', '    Channel                : 2', '    Receive rate (Mbps)    : 144', '    Transmit rate (Mbps)   : 52', '    Signal                 : 100% ', '    Profile                : Sunroom ', '', '    Hosted network status  : Not available', '']<
+2020-08-10 08:02:43,662 - speedtest - DEBUG - outputArrayNoSpaces=>['', 'Thereis1interfaceonthesystem:', '', 'Name:WiFi', 'Description:Broadcom802.11nNetworkAdapter', 'GUID:de1f9d76-56d1-4333-b97f-496308e7898a', 'Physicaladdress:44:1c:a8:95:5d:83', 'State:connected', 'SSID:Sunroom', 'BSSID:98:da:c4:0c:a2:5a', 'Networktype:Infrastructure', 'Radiotype:802.11n', 'Authentication:WPA2-Personal', 'Cipher:CCMP', 'Connectionmode:AutoConnect', 'Channel:2', 'Receiverate(Mbps):144', 'Transmitrate(Mbps):52', 'Signal:100%', 'Profile:Sunroom', '', 'Hostednetworkstatus:Notavailable', '']<
+2020-08-10 08:02:43,662 - speedtest - DEBUG - ssidArray=>['SSID:Sunroom']<
+2020-08-10 08:02:43,662 - speedtest - INFO - wifi_ssid=>SSID:Sunroom<
+2020-08-10 08:02:43,662 - speedtest - INFO - about to call speedtest-cli
+2020-08-10 08:03:09,326 - speedtest - INFO - completed call to speedtest-cli
