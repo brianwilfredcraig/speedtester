@@ -39,7 +39,11 @@ logger.debug('outputArrayNoSpaces=>%s<', outputArrayNoSpaces)
 ssidArray = [s for s in outputArrayNoSpaces if s.startswith("SSID")]
 logger.debug('ssidArray=>%s<', ssidArray)
 
-wifi_ssid = ssidArray[0]
+if (len(ssidArray) > 0) :
+    wifi_ssid = ssidArray[0]
+else :
+    wifi_ssid = 'ETHERNET'
+
 logger.info('wifi_ssid=>%s<', wifi_ssid)
 
 logger.info('about to call speedtest-cli')
