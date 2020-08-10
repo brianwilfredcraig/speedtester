@@ -2263,3 +2263,12 @@ There is 1 interface on the system:
 2020-08-10 08:02:43,662 - speedtest - INFO - wifi_ssid=>SSID:Sunroom<
 2020-08-10 08:02:43,662 - speedtest - INFO - about to call speedtest-cli
 2020-08-10 08:03:09,326 - speedtest - INFO - completed call to speedtest-cli
+2020-08-10 09:08:54,920 - speedtest - INFO - about to call netsh wlan
+2020-08-10 09:08:55,161 - speedtest - DEBUG - wifi_ssif=>There is no wireless interface on the system.
+    Hosted network status  : Not available
+
+<
+2020-08-10 09:08:55,161 - speedtest - INFO - completed call to netsh wlan
+2020-08-10 09:08:55,162 - speedtest - DEBUG - outputArray=>['There is no wireless interface on the system.', '    Hosted network status  : Not available', '']<
+2020-08-10 09:08:55,162 - speedtest - DEBUG - outputArrayNoSpaces=>['Thereisnowirelessinterfaceonthesystem.', 'Hostednetworkstatus:Notavailable', '']<
+2020-08-10 09:08:55,162 - speedtest - DEBUG - ssidArray=>[]<
